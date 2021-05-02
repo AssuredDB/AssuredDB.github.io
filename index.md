@@ -2,7 +2,7 @@
 
 
 ### Loadstring:
-AssuredDB/AssuredDB.github.io
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssuredDB/Voidz.gg/main/Prison.lua"))()
 
 
 ### Executors:
